@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
+
 namespace QAassignment2
 {
     public static class TriangleSolver
@@ -31,7 +32,6 @@ namespace QAassignment2
             }
 
             return result;
-  
         }
     }
 }
